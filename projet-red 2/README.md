@@ -114,8 +114,7 @@ Le boss final, c'est **votre pote**. Deux choses à modifier dans `src/monster.g
 const nomDuBoss = "LE POTE"   // ← mettez son prénom ici
 ```
 
-2. **Sa tête en ASCII**, dans les variables `bossPhase1`, `bossPhase2` et `bossPhase3`
-   (le dessin change tout seul selon les PV restants : > 60 %, > 20 %, puis phase finale).
+2. **Sa tête en ASCII**, dans les variables.
 
 Pour transformer une vraie photo en ASCII : passez la photo dans un convertisseur « image → ASCII art » (largeur ≈ 40 caractères), puis collez chaque ligne entre guillemets.
 
