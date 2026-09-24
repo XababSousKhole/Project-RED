@@ -101,7 +101,6 @@ projet-red/
 | M3 — Sorts en combat | ✅ | `combat.go` — Coup de poing (8) et Boule de Feu (18) |
 | M4 — Mana | ✅ | Coup de poing 5 mana, Boule de Feu 15 mana, potion de mana chez le marchand |
 | M5 — Améliorations | ✅ | Boss final ASCII à 3 phases, barres de vie colorées, potion de poison jetable sur l'ennemi, butin en or, menu d'équipement |
-| M6 — « Qui sont-ils ? » | ✅ | Option 8 du menu : **ABBA** (partie 2) et **Steven Spielberg** (partie 3) |
 
 ---
 
